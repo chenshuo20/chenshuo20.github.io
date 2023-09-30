@@ -14,15 +14,15 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/cv.pdf
-github_link: https://https://github.com/chenshuo20/
+github_link: https://github.com/chenshuo20/
 # linkedin: https://www.linkedin.com/
-twitter: https://https://twitter.com/an_epsilon0/
+twitter: https://twitter.com/an_epsilon0/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/photo_cs_square.png
-favicon: ./assets/img/photo_cs_square.png
-favicon_dark: ./assets/img/photo_cs_square.png
+favicon: ./assets/img/favicon_1.png
+favicon_dark: ./assets/img/favicon_1.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
