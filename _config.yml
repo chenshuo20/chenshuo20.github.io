@@ -20,9 +20,9 @@ twitter: https://https://twitter.com/an_epsilon0/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/photo_cs.png
-favicon: ./assets/img/photo_cs.png
-favicon_dark: ./assets/img/photo_cs.png
+avatar: ./assets/img/photo_cs_square.png
+favicon: ./assets/img/photo_cs_square.png
+favicon_dark: ./assets/img/photo_cs_square.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
