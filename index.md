@@ -6,7 +6,7 @@ layout: homepage
 
 I am a senior undergraduate student of [Weiyang College](https://www.wyc.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), major in Mathmatics and Physics. My research interests in 3D vision, Reasoning & Scene Understanding, and RL. I also have a keen interest in mathematics, especially in geometry. 
 
-In 2023 summer, I am fortunate to be adviced by [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/).
+In 2023 summer, I am fortunate to be adviced by [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), working on projects about 3D vision and vision question answering(VQA).
 
 
 ## Research Interests
@@ -18,8 +18,8 @@ In 2023 summer, I am fortunate to be adviced by [Prof. Alan L. Yuille](https://w
 
 ## News
 
-- **[June. 2023]** Summer intern at [CCVL](https://ccvl.jhu.edu/), Johns Hopkins University
+- **[June. 2023]** Summer intern at [CCVL](https://ccvl.jhu.edu/), Johns Hopkins University.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
