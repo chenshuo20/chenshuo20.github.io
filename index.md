@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a senior undergraduate student of [Weiyang College](https://www.wyc.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), major in Mathmatics and Physics. My research interests in 3D vision, Reasoning & Scene Understanding, and RL. I also have a keen interest in mathematics, especially in geometry.
+
 
 ## Research Interests
 
