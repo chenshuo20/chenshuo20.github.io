@@ -8,7 +8,7 @@ layout: homepage
 
 I am a senior undergraduate student of [Weiyang College](https://www.wyc.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), major in Mathmatics and Physics. My research interests in 3D vision, Reasoning & Scene Understanding, and RL. I also have a keen interest in mathematics, especially in geometry. 
 
-Since 2023 summer, I am fortunate to be advised by [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), [Prof. Adam Kortylewski](https://gvrl.mpi-inf.mpg.de/) and [Angtian Wang](https://scholar.google.com/citations?user=YR7re-cAAAAJ&hl=en&oi=ao), working on projects about 3D vision and vision question answering(VQA).
+Since 2023 summer, I am fortunate to be advised by [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), [Prof. Adam Kortylewski](https://gvrl.mpi-inf.mpg.de/) and mentored by [Angtian Wang](https://scholar.google.com/citations?user=YR7re-cAAAAJ&hl=en&oi=ao), working on projects about 3D vision and vision question answering(VQA).
 
 ## Research Interests
 
