@@ -14,7 +14,7 @@ Since 2023 summer, I am fortunate to be advised by [Prof. Alan L. Yuille](https:
 
 - **Computer Vision:** 3D reconstruction, vision question answering
 
-- **Reasoning :** relational and temporal models for reasoning
+- **Visual Reasoning :** relational and temporal models for reasoning
 
 
 ## News
