@@ -1,8 +1,7 @@
 main:
 
-  - title: CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model
+  - title: CRM Single Image to 3D Textured Mesh with Convolutional Reconstruction Model
     authors: Zhengyi Wang, Yikai Wang, Yifei Chen, Chendong Xiang, <\strong>Shuo Chen<\strong>, Dajiang Yu, Chongxuan Li, Hang Su, Jun Zhu
     pdf: https://arxiv.org/pdf/2403.05034.pdf
     code: https://github.com/thu-ml/CRM
     image: ./assets/img/cat.png
-
