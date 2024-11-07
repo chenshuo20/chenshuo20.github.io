@@ -11,6 +11,9 @@
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     {% endif %}
+    {% if link.video %} 
+    <video loop playsinline muted autoplay src="{{ link.video }}"  style="width=100;height=40%">
+    {% endif %}
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
