@@ -8,6 +8,8 @@ I am currently a senior undergraduate at [Weiyang College](https://www.wyc.tsing
 
 During 2023 summer, I am fortunate to be advised by [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), [Prof. Adam Kortylewski](https://gvrl.mpi-inf.mpg.de/), working on projects about 3D vision and vision question answering(VQA).
 
+**I am seeking a Ph.D. position starting in Fall 2025. If you are interested in my profile, please feel free to reach out.**
+
 ## News
 
 - **[June. 2023]** Summer intern at [CCVL](https://ccvl.jhu.edu/), Johns Hopkins University.
