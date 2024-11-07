@@ -1,7 +1,7 @@
 main:
 
   - title: "DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion"
-    authors: Wenqiang Sun *, Shuo Chen *, Fangfu Liu*, Zilong Chen, Yueqi Duan, Jun Zhang, Yikai Wang
+    authors: Wenqiang Sun *, <strong>Shuo Chen</strong> *, Fangfu Liu*, Zilong Chen, Yueqi Duan, Jun Zhang, Yikai Wang
     page: https://chenshuo20.github.io/DimensionX/
     code: https://github.com/wenqsun/DimensionX
     image: ./assets/img/pan.png
