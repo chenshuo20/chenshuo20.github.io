@@ -1,5 +1,11 @@
 main:
 
+  - title: "DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion"
+    authors: Wenqiang Sun *, Shuo Chen *, Fangfu Liu*, Zilong Chen, Yueqi Duan, Jun Zhang, Yikai Wang
+    page: https://chenshuo20.github.io/DimensionX/
+    code: https://github.com/wenqsun/DimensionX
+    image: ./assets/img/pan.png
+
   - title: "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model"
     authors: Zhengyi Wang, Yikai Wang, Yifei Chen, Chendong Xiang, <strong>Shuo Chen</strong>, Dajiang Yu, Chongxuan Li, Hang Su, Jun Zhu
     page: https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/
