@@ -4,7 +4,7 @@ main:
     authors: Wenqiang Sun*, <strong>Shuo Chen</strong>*, Fangfu Liu*, Zilong Chen, Yueqi Duan, Jun Zhang, Yikai Wang
     page: https://chenshuo20.github.io/DimensionX/
     code: https://github.com/wenqsun/DimensionX
-    video: ./assets/video/pan.mp4
+    image: ./assets/video/pan.gif
 
   - title: "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model"
     authors: Zhengyi Wang, Yikai Wang, Yifei Chen, Chendong Xiang, <strong>Shuo Chen</strong>, Dajiang Yu, Chongxuan Li, Hang Su, Jun Zhu
