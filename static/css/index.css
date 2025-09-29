@@ -160,9 +160,3 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
-
-.responsive-model {
-  width: 100%;
-  display: block; 
-  aspect-ratio: 16 / 9; 
-}

@@ -33,7 +33,7 @@
   <script type="module" src="https://cdn.jsdelivr.net/npm/@google/model-viewer@latest/dist/model-viewer.min.js"></script>
   <style>
     model-viewer {
-      width: 100%;
+      width: 140%;
       height: 100%;
     }
   </style>  
@@ -146,18 +146,20 @@
         </tr>
 
         <tr>
-            <td style="padding:10px;width:30%;vertical-align:middle">
-              <div class="one">
-                  <model-viewer class="responsive-model" src="./research/CRM/cat.glb" 
-                  environment-image="./research/CRM/pure_grey.png"
-                  shadow-intensity="1"
-                  orientation="0deg 270deg 180deg"
-                  style="background: linear-gradient(#ffffff, #ada996); width: 140%;"
-                  camera-controls touch-action="pan-y">
-                  </model-viewer>
-              </div>
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
+            <td style="padding:10px; width:30%; vertical-align:middle;">
+            <div class="one">
+                <model-viewer 
+                    class="responsive-model" 
+                    src="./research/CRM/cat.glb" 
+                    environment-image="./research/CRM/pure_grey.png"
+                    shadow-intensity="1"
+                    orientation="0deg 270deg 180deg"
+                    style="background: linear-gradient(#ffffff, #ada996);" camera-controls 
+                    touch-action="pan-y">
+                </model-viewer>
+            </div>
+        </td>
+            <td style="padding:20px;width:70%;vertical-align:middle">
               <a href="https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/">
                 <span class="papertitle">CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model</span>
               </a>
